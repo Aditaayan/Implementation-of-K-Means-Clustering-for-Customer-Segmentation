@@ -83,15 +83,15 @@ plt.title("Customer Segments")
 
 ## Output:
 
-Elbow Method: 
+### Elbow Method: 
 
 ![Screenshot 2024-09-30 110341](https://github.com/user-attachments/assets/4255e3d7-2f0f-4a71-8976-403e9dd6d9fa)
 
-Y prediction:
+### Y prediction:
 
 ![Screenshot 2024-09-30 110351](https://github.com/user-attachments/assets/50945fd9-a622-4353-99d4-5f09b105ebd7)
 
-Customer segments:
+### Customer segments:
 
 ![Screenshot 2024-09-30 110401](https://github.com/user-attachments/assets/e27fa527-9b5a-4501-aea6-724b87229004)
 
