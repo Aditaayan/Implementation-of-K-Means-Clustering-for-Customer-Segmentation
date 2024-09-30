@@ -28,9 +28,9 @@ Step 7: Stop the program.
 
 Program to implement the K Means Clustering for Customer Segmentation.
 
-Developed by: SATHYAA R
+Developed by: ADITAAYAN M
 
-RegisterNumber: 212223100052
+RegisterNumber: 212223040006
 
 ```
 import pandas as pd
@@ -84,16 +84,16 @@ plt.title("Customer Segments")
 ## Output:
 
 ### Elbow Method: 
+![image](https://github.com/user-attachments/assets/42f95ad3-866c-4b8e-85ce-bfdcdcdfa8a1)
 
-![Screenshot 2024-09-30 110341](https://github.com/user-attachments/assets/4255e3d7-2f0f-4a71-8976-403e9dd6d9fa)
 
 ### Y prediction:
+![image](https://github.com/user-attachments/assets/8070c47a-1da9-4ae3-897a-f54e2d7f9ed8)
 
-![Screenshot 2024-09-30 110351](https://github.com/user-attachments/assets/50945fd9-a622-4353-99d4-5f09b105ebd7)
 
 ### Customer segments:
+![image](https://github.com/user-attachments/assets/b54560f5-8688-4d65-ab8a-69782cdc20b4)
 
-![Screenshot 2024-09-30 110401](https://github.com/user-attachments/assets/e27fa527-9b5a-4501-aea6-724b87229004)
 
 
 ## Result:
